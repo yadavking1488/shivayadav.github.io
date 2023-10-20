@@ -1,17 +1,3 @@
-# shivayadav.github.io
-
-
-EDUCATION
-
-computerscience,bsc
-
-INTERNSHIP
-
-cybersecurityand ethicalhacking
-
-
-
-
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
