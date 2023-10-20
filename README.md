@@ -1,9 +1,9 @@
 # shivayadav.github.io
 
 
-##EDUCATION:-
+#EDUCATION:-
 computerscience,bsc
 
 
-###internship:-
+#INTERNSHIP:-
 cybersecurityand ethicalhacking
